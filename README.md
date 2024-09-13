@@ -1,4 +1,8 @@
 # Formulário de Cadastro para E-commerce
+![image](https://github.com/user-attachments/assets/37ac19a0-45ce-446f-b971-66e0d12da3cc)
+![image](https://github.com/user-attachments/assets/acd1133f-31a5-4e24-9a7a-eee671c18279)
+
+
 
 ## Descrição do Projeto
 
